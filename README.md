@@ -1,5 +1,20 @@
-# Final Capstone
+# Final Capstone -- Hoppy Trails
 
-This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
+A web app developed in two weeks at the end of Tech Elevator, as a final project. 
 
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Our team was tasked with creating a 'Brewery Finder'-- but after a meeting with our product owner, it turned into somethings slightly different.
+
+'Hoppy Trails' is a collection of curated brewery-crawl routes through Cleveland, OH, as well as a detailed list of every major brewery in town.
+
+-Data gathered using OpenBreweryDB
+https://www.openbrewerydb.org/
+
+-Database built in MSSQL
+
+-Server compiled in C#, tested with IIS Express through VS 2019
+
+-Frontend assembled with Vue.js
+
+-Graphics created in Paint.NET and Photoshop CC
+
+(if you're local, maybe check out one of our routes some time-- they're pretty good!)
